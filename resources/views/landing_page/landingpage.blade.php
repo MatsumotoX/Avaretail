@@ -35,15 +35,17 @@
 
 
         @include('landing_page._vision')
-        @include('landing_page._project')
 
-
-
-    <section class="background-apple section-padding-top">
-        @include('landing_page._table')
+        <section class="background-apple section-padding-top">
         @include('landing_page._robot')
-        @include('landing_page._aimodel')
+
+        @include('landing_page._project')
     </section>
+
+
+
+
+   
 
 
     <section class="background2 section-padding-top">
