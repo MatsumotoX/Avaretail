@@ -1,0 +1,12 @@
+.background-hadid {
+    background: url(../images/top4.jpg) no-repeat center center fixed;
+    background-size: cover;
+    z-index: -2500;
+}
+
+.navbar.navbar-default {
+    background: transparent;
+    transition: all 500ms;
+    padding: 10px 0;
+}
+
