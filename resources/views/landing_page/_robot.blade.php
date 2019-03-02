@@ -17,7 +17,7 @@
 						<div>
 							<center>
 								<a href="https://arbot.cryptovation.co/" id="arbi-image" target="_blank">
-									<img src="https://s3-ap-southeast-1.amazonaws.com/cryptovationx/public/Arbi1.png" id="arbi-image" alt="" width="80" class="robot">
+									<img src="/images/24hours.png" id="arbi-image" alt="" width="80" class="robot">
 								</a>
 							</center>
 						</div>
@@ -31,7 +31,7 @@
 						<div>
 							<center>
 								<a href="http://ava.fund/" id="specto-image" target="_blank">
-									<img src="https://s3-ap-southeast-1.amazonaws.com/cryptovationx/public/Specto1.png" id="specto-image" width="80px" class="robot">
+									<img src="/images/people.png" id="specto-image" width="80px" class="robot">
 								</a>
 							</center>
 						</div>
@@ -45,7 +45,7 @@
 					<div class="">
 						<div>
 							<center>
-								<img src="https://s3-ap-southeast-1.amazonaws.com/cryptovationx/public/Broca1.png" width="80px" class="robot">
+								<img src="/images/trading.png" width="80px" class="robot">
 							</center>
 						</div>
 						<h2>FX price is highly volatile</h2>
