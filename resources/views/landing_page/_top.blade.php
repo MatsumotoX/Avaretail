@@ -14,25 +14,16 @@
 			<div class=" text-center1 main-site scaleReveal">
 				<img src="https://s3-ap-southeast-1.amazonaws.com/cryptovationx/public/logos/fulltoplogo.png" width="100%">
 				<br>
-				<h3 class="scaleReveal white-text2" style="text-align:center;">"The Best Friend for Crypto Investors"</h3>
-				<h1 class="scaleReveal top-x">
-					<p style="text-align:center;">
-						<a class="btn btn-top" id="White Paper Top" href=" {{ asset('whitepaper.pdf') }} " target="_blank" role="button" onClick="ga('send','event','whitepaper-top','click','whitepaper.pdf','100');">Read our White Paper</a>
-					</p>
-				</h1>
+				<h3 class="scaleReveal white-text2" style="text-align:center;">"The Best Friend for Investors"</h3>
+			
 				<p> 
 					<div class="active item text-center">
 						<p style="padding: 10px;">Through utilization of Artificial Intelligence (AI) CryptovationX has built a best in class Robo-advisory platform
-							for blockchain investing in line with our Company core Vision
-							<strong>'Wealth for All'</strong>
+							for investing in line with our Company core Vision
+							<br><strong>'Wealth for All'</strong>
 						</p>
-						<p style="padding: 10px;">Official Announcement from CryptovationX: 
-						<br>
-						To protect the benefit of our investors and our community, CryptovationX (CXA Token) has decided to extend the token distribution period and product launch campaign due to the overall trend of cryptocurrency market situation. 
-						<br>
-						For further information and questions, please contact 
-						<a href="mailto:x@cryptovationx.io"><strong>x@cryptovationx.io</strong></a>
-						</p>
+						
+	
 						<span class="section-divider mb15"></span>
 					</div>
 				</p>
@@ -44,14 +35,19 @@
 					<img class="intercon" src="https://s3-ap-southeast-1.amazonaws.com/cryptovationx/public/cambodia.png" id="news-image" style="background:white;">
 				</div>
 			</a> -->
-			<a href="https://medium.com/cryptovationx/cryptovationx-krungsri-358c514c1110" target="_blank">
-				<div class="border-image">
-					<img class="intercon" src="/images/ksr.jpeg" id="news-image" style="background:white;">
+			<a href="#" target="_blank">
+				<div class="">
+					<img class="intercon" src="https://s3-ap-southeast-1.amazonaws.com/cryptovationx/public/Arbi1.png" id="news-image" style="background:none;">
 				</div>
 			</a>
-			<p>
+			<h1 class="scaleReveal top-x">
+					<p style="text-align:center;">
+						<a class="btn btn-top" id="White Paper Top" href=" {{ asset('DCG.pdf') }} " target="_blank" role="button" onClick="ga('send','event','whitepaper-top','click','whitepaper.pdf','100');">How it works</a>
+					</p>
+				</h1>
+			<!-- <p>
 				<a class="btn more-team" id="news-button" href="https://medium.com/cryptovationx/cryptovationx-krungsri-358c514c1110" target="_blank" role="button">feat. Krungsri RISE</a>		
-			<br>
+			<br> -->
 			<!-- <p>
 				<a class="btn more-team" id="news-button" href="https://goo.gl/fUaBMR" target="_blank" role="button">Join Our Telegram</a>		
 			</p> -->

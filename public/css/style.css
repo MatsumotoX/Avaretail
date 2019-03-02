@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:700,400,300,100|Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:300);
+
 .btn,
 .heading-3 {
     letter-spacing: 2px
@@ -55,10 +56,10 @@ a:focus {
 body {
     background-color: #1d1d1d;
     color: #a2a2a2;
-    font-family: Open Sans, sans-serif!important;
+    font-family: Open Sans, sans-serif !important;
     font-size: 18px;
     font-weight: 300;
-    min-height: 100%!important;
+    min-height: 100% !important;
     overflow-x: hidden
 }
 
@@ -137,10 +138,10 @@ input:hover,
 textarea:active,
 textarea:focus,
 textarea:hover {
-    -moz-box-shadow: none!important;
-    -webkit-box-shadow: none!important;
+    -moz-box-shadow: none !important;
+    -webkit-box-shadow: none !important;
     border-color: #3498db;
-    box-shadow: none!important
+    box-shadow: none !important
 }
 
 .ticker {
@@ -173,179 +174,179 @@ textarea:hover {
 }
 
 .pt10 {
-    padding-top: 10px!important
+    padding-top: 10px !important
 }
 
 .pt15 {
-    padding-top: 15px!important
+    padding-top: 15px !important
 }
 
 .pt20 {
-    padding-top: 20px!important
+    padding-top: 20px !important
 }
 
 .pt30 {
-    padding-top: 30px!important
+    padding-top: 30px !important
 }
 
 .pt40 {
-    padding-top: 40px!important
+    padding-top: 40px !important
 }
 
 .pt50 {
-    padding-top: 50px!important
+    padding-top: 50px !important
 }
 
 .pt60 {
-    padding-top: 60px!important
+    padding-top: 60px !important
 }
 
 .pt80 {
-    padding-top: 80px!important
+    padding-top: 80px !important
 }
 
 .pt90 {
-    padding-top: 90px!important
+    padding-top: 90px !important
 }
 
 .pt100 {
-    padding-top: 100px!important
+    padding-top: 100px !important
 }
 
 .pb0 {
-    padding-bottom: 0!important
+    padding-bottom: 0 !important
 }
 
 .pb5 {
-    padding-bottom: 5px!important
+    padding-bottom: 5px !important
 }
 
 .pb10 {
-    padding-bottom: 10px!important
+    padding-bottom: 10px !important
 }
 
 .pb15 {
-    padding-bottom: 15px!important
+    padding-bottom: 15px !important
 }
 
 .pb20 {
-    padding-bottom: 20px!important
+    padding-bottom: 20px !important
 }
 
 .pb30 {
-    padding-bottom: 30px!important
+    padding-bottom: 30px !important
 }
 
 .pb40 {
-    padding-bottom: 40px!important
+    padding-bottom: 40px !important
 }
 
 .pb50 {
-    padding-bottom: 50px!important
+    padding-bottom: 50px !important
 }
 
 .pb60 {
-    padding-bottom: 60px!important
+    padding-bottom: 60px !important
 }
 
 .pb80 {
-    padding-bottom: 80px!important
+    padding-bottom: 80px !important
 }
 
 .pb90 {
-    padding-bottom: 90px!important
+    padding-bottom: 90px !important
 }
 
 .pb100 {
-    padding-bottom: 100px!important
+    padding-bottom: 100px !important
 }
 
 .mt10 {
-    margin-top: 10px!important
+    margin-top: 10px !important
 }
 
 .mt15 {
-    margin-top: 15px!important
+    margin-top: 15px !important
 }
 
 .mt20 {
-    margin-top: 20px!important
+    margin-top: 20px !important
 }
 
 .mt30 {
-    margin-top: 30px!important
+    margin-top: 30px !important
 }
 
 .mt40 {
-    margin-top: 40px!important
+    margin-top: 40px !important
 }
 
 .mt50 {
-    margin-top: 50px!important
+    margin-top: 50px !important
 }
 
 .mt60 {
-    margin-top: 60px!important
+    margin-top: 60px !important
 }
 
 .mt80 {
-    margin-top: 80px!important
+    margin-top: 80px !important
 }
 
 .mt90 {
-    margin-top: 90px!important
+    margin-top: 90px !important
 }
 
 .mt100 {
-    margin-top: 100px!important
+    margin-top: 100px !important
 }
 
 .mb0 {
-    margin-bottom: 0!important
+    margin-bottom: 0 !important
 }
 
 .mb5 {
-    margin-bottom: 5px!important
+    margin-bottom: 5px !important
 }
 
 .mb10 {
-    margin-bottom: 10px!important
+    margin-bottom: 10px !important
 }
 
 .mb15 {
-    margin-bottom: 15px!important
+    margin-bottom: 15px !important
 }
 
 .mb20 {
-    margin-bottom: 20px!important
+    margin-bottom: 20px !important
 }
 
 .mb30 {
-    margin-bottom: 30px!important
+    margin-bottom: 30px !important
 }
 
 .mb40 {
-    margin-bottom: 40px!important
+    margin-bottom: 40px !important
 }
 
 .mb50 {
-    margin-bottom: 50px!important
+    margin-bottom: 50px !important
 }
 
 .mb60 {
-    margin-bottom: 60px!important
+    margin-bottom: 60px !important
 }
 
 .mb80 {
-    margin-bottom: 80px!important
+    margin-bottom: 80px !important
 }
 
 .mb90 {
-    margin-bottom: 90px!important
+    margin-bottom: 90px !important
 }
 
 .mb100 {
-    margin-bottom: 100px!important
+    margin-bottom: 100px !important
 }
 
 .ml30 {
@@ -385,23 +386,23 @@ textarea:hover {
 }
 
 .no-margin {
-    margin: 0!important
+    margin: 0 !important
 }
 
 .no-margin-top {
-    margin-top: 0!important
+    margin-top: 0 !important
 }
 
 .no-padding-top {
-    padding-top: 0!important
+    padding-top: 0 !important
 }
 
 .no-margin-bottom {
-    margin-bottom: 0!important
+    margin-bottom: 0 !important
 }
 
 .no-padding-bottom {
-    padding-bottom: 0!important
+    padding-bottom: 0 !important
 }
 
 .section-padding {
@@ -1038,7 +1039,7 @@ ul.social-buttons li a:hover {
 }
 
 .modal-content {
-    border-radius: 0!important
+    border-radius: 0 !important
 }
 
 .modal-header {
@@ -1195,11 +1196,11 @@ ul.social-buttons li a:hover {
 }
 
 .bg-navbar-toggle {
-    background-color: #fff!important
+    background-color: #fff !important
 }
 
 .navbar-default.bg-navbar-toggle .navbar-nav>li>a {
-    color: #777!important
+    color: #777 !important
 }
 
 .navbar-default .navbar-toggle {
@@ -1736,7 +1737,7 @@ ul.social-buttons li a:hover {
     -ms-transition: background-color 250ms ease-in-out;
     height: auto;
     width: auto;
-   
+
 }
 
 .team-member-box h3 {
@@ -1884,7 +1885,7 @@ span.portfolio-hover a {
 }
 
 .project-title {
-    display: block!important;
+    display: block !important;
     font-size: 24px;
     font-weight: 100
 }
@@ -1906,7 +1907,7 @@ span.portfolio-hover a {
 
 .portfolio-links-icons {
     font-size: 50px;
-    line-height: 2!important
+    line-height: 2 !important
 }
 
 .badge {
@@ -2018,9 +2019,9 @@ span.portfolio-hover a {
 }
 
 .plan-name-option3 {
-    font-size: 12px!important;
-    font-weight: 300!important;
-    margin-bottom: 0!important
+    font-size: 12px !important;
+    font-weight: 300 !important;
+    margin-bottom: 0 !important
 }
 
 #footer {
@@ -2164,13 +2165,13 @@ span.portfolio-hover a {
 }
 
 #contact .form-control {
-    -moz-box-shadow: none!important;
-    -webkit-box-shadow: none!important;
+    -moz-box-shadow: none !important;
+    -webkit-box-shadow: none !important;
     background-color: transparent;
     border: none;
     border-bottom: 2px solid #292929;
     border-radius: 0;
-    box-shadow: none!important;
+    box-shadow: none !important;
     color: #a1a1a1;
     font-size: 14px;
     font-weight: 400;
@@ -2279,86 +2280,112 @@ footer hr {
 }
 
 @media (max-width:767px) {
+
     .section-padding,
     .section-padding-top {
         padding-top: 25px
     }
+
     .text-center-xs {
         text-align: center
     }
+
     .mt10-xs {
         margin-top: 10px
     }
+
     .mt20-xs {
         margin-top: 20px
     }
+
     .mt30-xs {
         margin-top: 30px
     }
+
     .mt40-xs {
         margin-top: 40px
     }
+
     .mb10-xs {
         margin-bottom: 10px
     }
+
     .mb20-xs {
         margin-bottom: 20px
     }
+
     .mb30-xs {
         margin-bottom: 30px
     }
+
     .mb40-xs {
         margin-bottom: 40px
     }
+
     .section-padding {
         padding-bottom: 25px
     }
+
     .navbar-default .navbar-nav>li>a {
         line-height: 1
     }
+
     .navbar-nav .open .dropdown-menu {
         padding: 0
     }
+
     .navbar-default .navbar-nav .open .dropdown-menu>li>a {
         color: #fff
     }
+
     .navbar-default .navbar-nav .open .dropdown-menu>li>a:focus,
     .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover {
         color: hsla(0, 0%, 100%, .6)
     }
+
     .section-title h2 {
         font-size: 34px
     }
+
     .navbar-nav {
         margin: 12px -15px
     }
+
     #pricing .plan.featured {
         -ms-transform: scale(1.03);
         -webkit-transform: scale(1.03);
         transform: scale(1.03)
     }
+
     .btn-category {
         margin-bottom: 5px
     }
+
     .pricing-clients {
         width: 90px
     }
+
     .modal-header .close {
         margin-right: -62px
     }
+
     .breadcrumb-holder {
         padding: 12px 0
     }
+
     .ticker,
     .ticker h1 {
         height: 40px
     }
+
     .big-logo {
         font-size: 50px
     }
+
     .jumbotron.jumbotron-register {
         height: auto
     }
+
     .jumbotron.jumbotron-register h1 {
         font-size: 40px
     }
@@ -2368,39 +2395,47 @@ footer hr {
     .timeline:before {
         left: 50%
     }
+
     .timeline>li {
         margin-bottom: 20px;
         min-height: 100px
     }
+
     .timeline>li .timeline-panel {
         float: left;
         padding: 0 20px 20px 30px;
         text-align: right;
         width: 41%
     }
+
     .timeline>li .timeline-image {
         height: 100px;
         left: 50%;
         margin-left: -50px;
         width: 100px
     }
+
     .timeline>li .timeline-image h4 {
         font-size: 13px;
         line-height: 18px;
         margin-top: 16px
     }
+
     .timeline>li.timeline-inverted>.timeline-panel {
         float: right;
         padding: 0 30px 20px 20px;
         text-align: left
     }
+
     .modal-dialog {
         margin: 100px auto
     }
+
     .navbar>.container .navbar-brand,
     .navbar>.container-fluid .navbar-brand {
         margin-left: 0
     }
+
     .dropdown .dropdown-menu {
         -moz-transition: all .2s ease-in;
         -ms-transition: all .2s ease-in;
@@ -2410,6 +2445,7 @@ footer hr {
         opacity: 0;
         transition: all .2s ease-in
     }
+
     .dropdown:hover .dropdown-menu {
         display: block;
         opacity: 1
@@ -2420,49 +2456,62 @@ footer hr {
     #our-process h2 {
         font-size: 28px
     }
+
     #our-process .process-content p {
         font-size: 16px;
         width: 75%
     }
+
     .text-center-sm {
         text-align: center
     }
+
     .mt10-sm {
         margin-top: 10px
     }
+
     .mb10-sm {
         margin-bottom: 10px
     }
+
     .mt20-sm {
         margin-top: 20px
     }
+
     .mb20-sm {
         margin-bottom: 20px
     }
+
     .mt30-sm {
         margin-top: 30px
     }
+
     .mb30-sm {
         margin-bottom: 30px
     }
+
     .jumbotron.jumbotron-register h1 {
         font-size: 45px
     }
 }
 
 @media (min-width:992px) {
+
     .timeline>li .timeline-panel,
     .timeline>li.timeline-inverted>.timeline-panel {
         padding: 0 20px 20px
     }
+
     .timeline>li {
         min-height: 150px
     }
+
     .timeline>li .timeline-image {
         height: 150px;
         margin-left: -75px;
         width: 150px
     }
+
     .timeline>li .timeline-image h4 {
         font-size: 18px;
         line-height: 26px;
@@ -2474,17 +2523,21 @@ footer hr {
     .timeline>li {
         min-height: 170px
     }
+
     .timeline>li .timeline-panel {
         padding: 0 20px 20px 30px
     }
+
     .timeline>li .timeline-image {
         height: 170px;
         margin-left: -85px;
         width: 170px
     }
+
     .timeline>li .timeline-image h4 {
         margin-top: 40px
     }
+
     .timeline>li.timeline-inverted>.timeline-panel {
         padding: 0 30px 20px 20px
     }
@@ -2710,7 +2763,7 @@ footer hr {
 
 .more-team-view-all,
 .more-team-view-all-whitepaper {
-    background-color: transparent!important;
+    background-color: transparent !important;
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .16), 0 0 0 1px rgba(0, 0, 0, .08);
     color: #000;
     padding: 8px 25px;
@@ -2732,8 +2785,8 @@ footer hr {
 
 .more-team-view-all-whitepaper:hover,
 .more-team-view-all:hover {
-    background-color: transparent!important;
-    border-color: none!important;
+    background-color: transparent !important;
+    border-color: none !important;
     box-shadow: 1px 2px 10px rgba(5, 23, 39, .4);
     color: #000;
     padding: 8px 25px
@@ -2746,19 +2799,19 @@ footer hr {
 }
 
 .more-team {
-    background-color: #ff7143!important;
-    border: transparent!important;
+    background-color: #ff7143 !important;
+    border: transparent !important;
     padding: 8px 25px
 }
 
 .more-team:hover {
-    background-color: #3498db!important;
-    border-color: none!important
+    background-color: #3498db !important;
+    border-color: none !important
 }
 
 .more-team22 {
-    background-color: #ff7143!important;
-    border: transparent!important;
+    background-color: #ff7143 !important;
+    border: transparent !important;
     padding: 4px 12px
 }
 
@@ -2768,7 +2821,7 @@ footer hr {
 }
 
 .more-team22:hover {
-    background-color: #3498db!important
+    background-color: #3498db !important
 }
 
 .conference {
@@ -2780,8 +2833,8 @@ footer hr {
 }
 
 .intercon {
-    color: #fff!important;
-    width: 100%
+    color: #fff !important;
+    width: 150px;
 }
 
 .intercon-text {
@@ -2807,7 +2860,7 @@ footer hr {
 .white-text2 {
     color: #fff;
     font-family: Open Sans, sans-serif;
-    margin-bottom: 0!important;
+    margin-bottom: 0 !important;
     margin-top: 5px
 }
 
@@ -2869,6 +2922,7 @@ footer hr {
     .text-center1 {
         text-align: left
     }
+
     #particle-js {
         height: 150%
     }
@@ -2896,6 +2950,7 @@ footer hr {
     .jumbotron.jumbotron-main {
         height: 800px
     }
+
     .center-top {
         display: flex
     }
@@ -2972,7 +3027,7 @@ body {
 }
 
 .no-border {
-    border-right: 0!important
+    border-right: 0 !important
 }
 
 .timeline-new {
@@ -3076,8 +3131,9 @@ body {
     .top-mobile {
         padding-top: 0
     }
+
     .mobile-bar {
-        background-color: transparent!important;
+        background-color: transparent !important;
         height: 25px;
         margin-right: 15px;
         margin-top: 8px;
@@ -3145,15 +3201,18 @@ body {
         flex-direction: row;
         padding-top: 20px
     }
+
     .timeline-responsive:before {
         height: 5px;
         left: 33px;
         top: 17px;
         width: 84%
     }
+
     .timeline-responsive li {
         padding-top: 15px
     }
+
     .timeline-responsive li:before {
         left: 28px;
         top: -8px
@@ -3210,11 +3269,11 @@ body {
 }
 
 .no-padding {
-    padding: none!important
+    padding: none !important
 }
 
 .btn-top {
-    background-color: transparent!important;
+    background-color: transparent !important;
     border: 1px solid #fff;
     color: #fff;
     font-size: 14px;
@@ -3222,8 +3281,8 @@ body {
 }
 
 .btn-top:hover {
-    background-color: #ff7143!important;
-    border-color: #ff7143!important
+    background-color: #ff7143 !important;
+    border-color: #ff7143 !important
 }
 
 .border-image {
@@ -3257,7 +3316,7 @@ body {
 }
 
 .navbar-default .navbar-toggle:focus {
-    background-color: transparent!important
+    background-color: transparent !important
 }
 
 .navbar-shadow {
@@ -3300,11 +3359,11 @@ body {
 }
 
 .vision-top {
-    font-size: 12px!important
+    font-size: 12px !important
 }
 
 .arbot-x {
-    width: 400px!important
+    width: 400px !important
 }
 
 .whitepaper-font {
@@ -3327,7 +3386,7 @@ body {
 
 .table-x {
     font-size: 8px;
-    margin-bottom: 3px!important
+    margin-bottom: 3px !important
 }
 
 .table-bg {
@@ -3352,20 +3411,24 @@ body {
     .table-x {
         border-radius: 7px;
         font-size: 18px;
-        margin-bottom: 3px!important
+        margin-bottom: 3px !important
     }
+
     .table-bg {
         background-attachment: fixed;
         background-position: 50%;
         background-repeat: no-repeat
     }
+
     .features-correct {
         width: 20px
     }
+
     .features-icon {
         text-decoration: none;
         width: 30px
     }
+
     .project-link {
         font-size: 14px;
         text-align: center
@@ -3440,17 +3503,18 @@ body {
 }
 
 .table-hover>tbody>tr:hover {
-    background-color: #fffbfa!important
+    background-color: #fffbfa !important
 }
 
 @media screen and (max-width:767px) {
+
     .table-responsive>.table>tbody>tr>td,
     .table-responsive>.table>tbody>tr>th,
     .table-responsive>.table>tfoot>tr>td,
     .table-responsive>.table>tfoot>tr>th,
     .table-responsive>.table>thead>tr>td,
     .table-responsive>.table>thead>tr>th {
-        white-space: inherit!important
+        white-space: inherit !important
     }
 }
 
@@ -3492,7 +3556,7 @@ body {
 }
 
 .read-more-article {
-    color: #000!important
+    color: #000 !important
 }
 
 .ico-rating {
@@ -3516,6 +3580,7 @@ body {
     .sidebar-primary {
         width: 100%
     }
+
     .sidebar-blog {
         display: none
     }
@@ -3551,7 +3616,7 @@ body {
 
 .arbot-top {
     background: url(/images/arbot-header2.jpg) cover no-repeat #090c1b;
-    height: 300px!important
+    height: 300px !important
 }
 
 .semi-jumbotron.semi-jumbotron-register {
@@ -3622,13 +3687,13 @@ ol.i {
     width: 40px;
     transform: translate(-10px, -40px);
     border-radius: 50%;
-    -webkit-filter: grayscale(100%); 
+    -webkit-filter: grayscale(100%);
     filter: grayscale(100%);
     border: 4px solid #D2D2D2;
 }
 
-.git:hover{
-    -webkit-filter: grayscale(0%); 
+.git:hover {
+    -webkit-filter: grayscale(0%);
     filter: grayscale(0%);
     transition: all 0.5s ease;
 }
@@ -3638,28 +3703,32 @@ ol.i {
     width: 40px;
     transform: translate(-20px, -35px);
     border-radius: 50%;
-    -webkit-filter: grayscale(100%); 
+    -webkit-filter: grayscale(100%);
     filter: grayscale(100%);
     border: 4px solid #D2D2D2;
     float: right;
 }
 
-.linkedin:hover{
-    -webkit-filter: grayscale(0%); 
+.linkedin:hover {
+    -webkit-filter: grayscale(0%);
     filter: grayscale(0%);
     border: 4px solid rgb(144, 169, 221);
     transition: all 0.3s ease;
 }
 
-.contactus1{
-    text-align: center; 
-    color:white; 
-    font-size:4.5rem;
+.contactus1 {
+    text-align: center;
+    color: white;
+    font-size: 4.5rem;
 }
 
-.contactus2{
-    text-align: center; 
-    color:#b9b9b9; 
-    margin-top:10px;
+.contactus2 {
+    text-align: center;
+    color: #b9b9b9;
+    margin-top: 10px;
 }
 
+.arbi-cover {
+    width: 150px;
+    text-align: center;
+}

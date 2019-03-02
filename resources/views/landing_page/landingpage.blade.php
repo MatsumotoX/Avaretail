@@ -63,20 +63,20 @@
     </section>
 
 
-    <section class="background-broca-r ">
-        @include('landing_page._teammanage')
+    <!-- <section class="background-broca-r "> -->
+        <!-- @include('landing_page._teammanage')
         @include('landing_page._teamadvisor')
-        @include('landing_page._teammore')
+        @include('landing_page._teammore') -->
         <!-- @include('landing_page._contact') -->
-    </section>
+    <!-- </section> -->
 
         @include('partial_layout._footer')
 
 
 
-    <a href="https://goo.gl/fUaBMR" target="_blank">
+    <!-- <a href="https://goo.gl/fUaBMR" target="_blank">
         <i id="telegram" class="fab fa-telegram-plane fix-contact"></i>
-    </a>
+    </a> -->
 
         @include('landing_page._script2')
 
