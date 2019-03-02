@@ -50,35 +50,18 @@
 
     <section class="background2 section-padding-top">
         @include('landing_page._howitwork')
-        @include('landing_page._blog')
     </section>
 
     <section class="background-arbi-r">
-        @include('landing_page._token')
+    @include('landing_page._press')
     </section>
 
 
 
-    <section class="background-specto-l section-padding-top">
-        @include('landing_page._press')
-        @include('landing_page._partner')
-    </section>
-
-
-    <!-- <section class="background-broca-r "> -->
-        <!-- @include('landing_page._teammanage')
-        @include('landing_page._teamadvisor')
-        @include('landing_page._teammore') -->
-        <!-- @include('landing_page._contact') -->
-    <!-- </section> -->
 
         @include('partial_layout._footer')
 
 
-
-    <!-- <a href="https://goo.gl/fUaBMR" target="_blank">
-        <i id="telegram" class="fab fa-telegram-plane fix-contact"></i>
-    </a> -->
 
         @include('landing_page._script2')
 

@@ -40,6 +40,8 @@
 					<img class="intercon" src="https://s3-ap-southeast-1.amazonaws.com/cryptovationx/public/Arbi1.png" id="news-image" style="background:none;">
 				</div>
 			</a>
+			<h3 class="scaleReveal white-text2" style="text-align:center;">FX Robot Trading</h3>
+
 			<h1 class="scaleReveal top-x">
 					<p style="text-align:center;">
 						<a class="btn btn-top" id="White Paper Top" href=" {{ asset('DCG.pdf') }} " target="_blank" role="button" onClick="ga('send','event','whitepaper-top','click','whitepaper.pdf','100');">How it works</a>
