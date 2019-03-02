@@ -54,16 +54,18 @@
 
     <section class="background-arbi-r">
     @include('landing_page._press')
+
+    @include('partial_layout._footer')
+
+    @include('landing_page._script2')
     </section>
 
 
 
 
-        @include('partial_layout._footer')
 
 
 
-        @include('landing_page._script2')
 
 </body>
 

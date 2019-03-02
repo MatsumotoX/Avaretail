@@ -12,23 +12,27 @@
         <div class="row mt30">
             <div class="col-sm-8  leftReveal">
                 <h5 class="heading-1 mb20 what">Differential Grid Trading</h5>
-                <div class="embed-responsive embed-responsive-16by9">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/_1NKOtGG7pw?rel=0;&autoplay=1" frameborder="0" allowfullscreen></iframe>
+                <div class="portfolio-image-holder rightReveal">
+                    <img src="/images/Diff.jpg" alt="4" class="img-responsive portfolio-image">
                 </div>
             </div>
             <div class="col-sm-4 mt30-xs  rightReveal">
-                <h5 class="heading-1 mb20 what">CryptovationX White Paper</h5>
+                <h5 class="heading-1 mb20 what">Explaination</h5>
                 <ul class="nav nav-tabs" role="tablist">
                 </ul>
+                <br>
                 <div class="tab-content tab-default tab-default whitepaper-border">
 
                     <div class="active text-small" id="whitepaper1">
                         <div class="thumbnail no-margin whitepaper">
-                        <a href=" {{ asset('whitepaper.pdf') }} " target="_blank" role="button">
-                            <img src="https://s3-ap-southeast-1.amazonaws.com/cryptovationx/public/whitepaper_coverx.jpg" alt="Work" class="whitepaper-cover">
-                            </a>
+                        <center><p>All possible points are price levels</p></center> 
+                        <center><p>Opportunities are everywhere</p></center> 
+                        <center><p>Minimize drawdown by opening</p></center> 
+                        <center><p>Maximize profitable trades</p></center> 
+                        <center><p>Invest more around the mean</p></center> 
+                        <center><p>Limiting Risk: carefully planned on position size</p></center> 
                             <div class="caption text-center">
-                                <a class="btn btn-default more-team-view-all-whitepaper" id="White Paper ENG" href=" {{ asset('whitepaper.pdf') }} " target="_blank" role="button">English</a>
+                                <a class="btn btn-default more-team-view-all-whitepaper" id="White Paper ENG" href=" {{ asset('DGC.pdf') }} " target="_blank" role="button">How it wroks</a>
                             
                             </div>
                         </div>
@@ -37,20 +41,31 @@
             </div>
         </div>
         <div class="row mt30">
-            
-            <div class="col-sm-4 mt30-xs  rightReveal">
-                <h5 class="heading-1 mb20 what">CryptovationX White Paper</h5>
+        <div class="col-sm-4 mt30-xs  rightReveal">
+                <h5 class="heading-1 mb20 what">Explaination</h5>
                 <ul class="nav nav-tabs" role="tablist">
                 </ul>
+                <br>
                 <div class="tab-content tab-default tab-default whitepaper-border">
 
                     <div class="active text-small" id="whitepaper1">
                         <div class="thumbnail no-margin whitepaper">
-                        <a href=" {{ asset('whitepaper.pdf') }} " target="_blank" role="button">
-                            <img src="https://s3-ap-southeast-1.amazonaws.com/cryptovationx/public/whitepaper_coverx.jpg" alt="Work" class="whitepaper-cover">
-                            </a>
+                        <center><p>Cointegration improves ranging stability</p></center> 
+                        <center><p>Intuition: why does cointegration works? <br>
+–  When one currency pair devalues, another rises <br>
+–  The right combination neutralizes the rate of change <br>
+- Circulation of funds within the basket </p></center> 
+
+                        <center><p>Human experts choose the currencies <br>
+–  Macroeconomics: national income, financial policies, ... <br>
+–  Machines are not (yet) capable</p></center> 
+                        <center><p>Robots choose the coefficients <br>
+–  Optimized using 5-year historical price data <br>
+–  Easy for machine to process lots of data
+ </p></center> 
+                        <center><p>Limiting Risk: carefully planned on position size</p></center> 
                             <div class="caption text-center">
-                                <a class="btn btn-default more-team-view-all-whitepaper" id="White Paper ENG" href=" {{ asset('whitepaper.pdf') }} " target="_blank" role="button">English</a>
+                                <a class="btn btn-default more-team-view-all-whitepaper" id="White Paper ENG" href=" {{ asset('DGC.pdf') }} " target="_blank" role="button">How it wroks</a>
                             
                             </div>
                         </div>
@@ -58,9 +73,9 @@
                 </div>
             </div>
             <div class="col-sm-8  leftReveal">
-                <h5 class="heading-1 mb20 what">Differential Grid Trading</h5>
-                <div class="embed-responsive embed-responsive-16by9">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/_1NKOtGG7pw?rel=0;&autoplay=1" frameborder="0" allowfullscreen></iframe>
+                <h5 class="heading-1 mb20 what">Cointegrated Assets</h5>
+                <div class="portfolio-image-holder rightReveal">
+                    <img src="/images/coin.jpg" alt="4" class="img-responsive portfolio-image">
                 </div>
             </div>
         </div>
