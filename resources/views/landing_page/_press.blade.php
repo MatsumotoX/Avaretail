@@ -1,15 +1,15 @@
-<div id="work" >
+<div id="return" >
     <div class="container-fluid container">
         <div class="row">
             <div class="col-xs-12 section-title text-center">
-                <h2>In The Press</h2>
+                <h2>Performance</h2>
                 <span class="section-divider mb15"></span>
             </div>
         </div>
-        <div id="thework" style="margin: auto; width: 80%;">
-            <div class="col-xs-12 col-sm-6 portfolio-box no-padding press" data-my-order="3">
-                <div class="portfolio-image-holder leftReveal" style="margin-right:10px;">
-                    <img src="https://s3-ap-southeast-1.amazonaws.com/cryptovationx/public/PondetX.jpg" alt="1" class="img-responsive portfolio-image">
+        <div id="thework" style="margin: auto; width: 100%;">
+            <div class="col-xs-12 col-sm-8 portfolio-box no-padding press" data-my-order="3">
+                <div class="portfolio-image-holder leftReveal">
+                    <img src="/images/test1.jpg" alt="1" class="img-responsive portfolio-image">
                 </div>
                 <span class="portfolio-hover blog-news">
                     <span class="">
@@ -23,9 +23,9 @@
                 </span>
                 <p class="text-blog"></p>
             </div>
-            <div class="col-xs-12 col-sm-6 portfolio-box no-padding press" data-my-order="5">
-                <div class="portfolio-image-holder rightReveal" style="margin-left:10px;">
-                    <img src="https://s3-ap-southeast-1.amazonaws.com/cryptovationx/public/PondetXX.jpg" alt="4" class="img-responsive portfolio-image">
+            <div class="col-xs-12 col-sm-4 portfolio-box no-padding press" data-my-order="5">
+                <div class="portfolio-image-holder rightReveal">
+                    <img src="/images/test2.jpg" alt="4" class="img-responsive portfolio-image">
                 </div>
                 <span class="portfolio-hover">
                     <span>

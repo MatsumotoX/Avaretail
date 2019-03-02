@@ -9,16 +9,14 @@
             </li>
 
             <li>
-                <a href=" {{ asset('whitepaper.pdf') }} " id="White Paper Bar" target="_blank" data-id="media">White Paper</a>
+                <a href=" {{ asset('DGC.pdf') }} " id="White Paper Bar" target="_blank" data-id="media">How it works</a>
             </li>
 
             <!-- <li>
                 <a href="{{ action('PagesController@getBlog') }}" id="blog">Blog</a>
             </li> -->
 
-            <li>
-                <a href="https://v2.cryptovationx.io/login" id="login" target="_blank">Login</a>
-            </li>
+            
 
             <li>
                 <!-- Logout -->
@@ -42,7 +40,7 @@
                         <a href="/" id="Home">Home</a>
                     </li>
                     <li>
-                        <a href=" {{ asset('whitepaper.pdf') }} " id="White Paper Bar" target="_blank">White Paper</a>
+                        <a href=" {{ asset('DGC.pdf') }} " id="White Paper Bar" target="_blank">How it works</a>
                     </li>
 
                     <!-- <li>
@@ -50,17 +48,14 @@
                     </li> -->
 
                     <li>
-                        <a href="#team">Team</a>
+                        <a href="#return">Performance</a>
                     </li>
 
                     <!-- <li>
                     <a href=" http://localhost:8000/contact-us " id="contact" target="_blank">Contact</a>
                     </li> -->
 
-                    <li>
-                        <a href="https://v2.cryptovationx.io/login" id="login" target="_blank">Login</a>
-                    </li>
-
+                    
                     
 
 
